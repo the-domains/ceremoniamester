@@ -1,0 +1,28 @@
+name: Ceremóniamester
+favicon: null
+layout_spectrum: 0.8963747315574437
+typography_spectrum: 0.23032938386313617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8171559064649045
+  lightness: 0.9179910253733397
+  saturation: 0.5496346454601735
+  rhythmicContrast: 0.4911245726980269
+purpose: []
